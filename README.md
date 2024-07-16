@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nyxiproton
+- 👀 I’m interested in programming, language learning, AI, biology, neurology, bioinformatics and more :)
+- 🌱 I’m currently learning python! My first programming language
